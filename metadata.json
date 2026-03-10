@@ -1,0 +1,7 @@
+{
+  "name": "DentalAI",
+  "description": "AI-powered dental diagnostic and case management platform.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
